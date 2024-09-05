@@ -1,7 +1,7 @@
 const index = (req, res) => {
-    res.render('index', { title: 'Hired.ly' });
-   };
-   module.exports = {
+    res.render('index', { title: 'Loc8r' });
+};
+module.exports = {
     index
-   };
+};
 
